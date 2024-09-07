@@ -1,0 +1,29 @@
+  @font-face {
+    font-family: Vazirmatn-light;
+    src: url('../fonts/Vazirmatn-Light.woff2') format('woff2');
+  }
+  
+  @font-face {
+    font-family: Vazirmatn-regular;
+    src: url('../fonts/Vazirmatn-Regular.woff2') format('woff2');
+  }
+  
+  @font-face {
+    font-family: Vazirmatn-medium;
+    src: url('../fonts/Vazirmatn-Medium.woff2') format('woff2');
+  }
+  
+  @font-face {
+    font-family: Vazirmatn-semibold;
+    src: url('../fonts/Vazirmatn-SemiBold.woff2') format('woff2');
+  }
+  
+  @font-face {
+    font-family: Vazirmatn-bold;
+    src: url('../fonts/Vazirmatn-Bold.woff2') format('woff2');
+  }
+    
+  @font-face {
+    font-family: Vazirmatn-black;
+    src: url('../fonts/Vazirmatn-Black.woff2') format('woff2');
+  }
