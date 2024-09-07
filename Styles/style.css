@@ -4,6 +4,10 @@
     text-decoration: none;
 }
 
+html{
+    scroll-behavior: smooth;
+}
+
 body{
     background-color: #171717;
     padding: 3rem 0.5rem 0 0.5rem;
@@ -104,4 +108,15 @@ body{
 
 .end:hover{
     color: var(--white);
+}
+
+::-webkit-scrollbar{
+    width: 0.4rem;
+    background-color: #00000000;
+    border-radius: 200px;
+}
+
+::-webkit-scrollbar-thumb{
+    background-color: rgba(255, 255, 255, 0.171);
+    border-radius: 200px;
 }
