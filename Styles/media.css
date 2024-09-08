@@ -73,3 +73,9 @@
     font-size: 1.5rem;
     }
 }
+
+@media (min-width: 1920px) and (aspect-ratio: 16/9) {
+    .container{
+        width: 450px;
+    }
+}
